@@ -1,0 +1,200 @@
+Folder PATH listing for volume Mirror
+Volume serial number is 80DF-AAD3
+M:.
+³   AIDegradingPlugin.jucer
+³   .gitignore.txt
+³   .gitattributes
+³   filetree.txt
+³   
+ÃÄÄÄSource
+³       PluginEditor.cpp
+³       PluginEditor.h
+³       PluginProcessor.cpp
+³       PluginProcessor.h
+³       
+ÃÄÄÄJuceLibraryCode
+³       JucePluginDefines.h
+³       JuceHeader.h
+³       include_juce_audio_basics.cpp
+³       include_juce_audio_basics.mm
+³       include_juce_audio_devices.cpp
+³       include_juce_audio_devices.mm
+³       include_juce_audio_formats.cpp
+³       include_juce_audio_formats.mm
+³       include_juce_audio_plugin_client_AAX.cpp
+³       include_juce_audio_plugin_client_AAX.mm
+³       include_juce_audio_plugin_client_AAX_utils.cpp
+³       include_juce_audio_plugin_client_ARA.cpp
+³       include_juce_audio_plugin_client_AU_1.mm
+³       include_juce_audio_plugin_client_AU_2.mm
+³       include_juce_audio_plugin_client_AUv3.mm
+³       include_juce_audio_plugin_client_LV2.cpp
+³       include_juce_audio_plugin_client_LV2.mm
+³       include_juce_audio_plugin_client_Standalone.cpp
+³       include_juce_audio_plugin_client_Unity.cpp
+³       include_juce_audio_plugin_client_VST2.cpp
+³       include_juce_audio_plugin_client_VST2.mm
+³       include_juce_audio_plugin_client_VST3.cpp
+³       include_juce_audio_plugin_client_VST3.mm
+³       include_juce_audio_processors.cpp
+³       include_juce_audio_processors.mm
+³       include_juce_audio_processors_ara.cpp
+³       include_juce_audio_processors_lv2_libs.cpp
+³       include_juce_audio_utils.cpp
+³       include_juce_audio_utils.mm
+³       include_juce_core.cpp
+³       include_juce_core.mm
+³       include_juce_core_CompilationTime.cpp
+³       include_juce_data_structures.cpp
+³       include_juce_data_structures.mm
+³       include_juce_events.cpp
+³       include_juce_events.mm
+³       include_juce_graphics.cpp
+³       include_juce_graphics.mm
+³       include_juce_graphics_Harfbuzz.cpp
+³       include_juce_gui_basics.cpp
+³       include_juce_gui_basics.mm
+³       include_juce_gui_extra.cpp
+³       include_juce_gui_extra.mm
+³       ReadMe.txt
+³       
+ÃÄÄÄBuilds
+³   ÀÄÄÄVisualStudio2022
+³       ³   resources.rc
+³       ³   AIDegradingPlugin_VST3.vcxproj
+³       ³   AIDegradingPlugin_VST3.vcxproj.filters
+³       ³   AIDegradingPlugin_StandalonePlugin.vcxproj
+³       ³   AIDegradingPlugin_StandalonePlugin.vcxproj.filters
+³       ³   AIDegradingPlugin_SharedCode.vcxproj
+³       ³   AIDegradingPlugin_SharedCode.vcxproj.filters
+³       ³   AIDegradingPlugin_VST3ManifestHelper.vcxproj
+³       ³   AIDegradingPlugin_VST3ManifestHelper.vcxproj.filters
+³       ³   AIDegradingPlugin.sln
+³       ³   AIDegradingPlugin_StandalonePlugin.vcxproj.user
+³       ³   AIDegradingPlugin_SharedCode.vcxproj.user
+³       ³   
+³       ÀÄÄÄx64
+³           ÀÄÄÄDebug
+³               ÃÄÄÄVST3 Manifest Helper
+³               ³   ³   AIDegradingPlugin_VST3ManifestHelper.log
+³               ³   ³   juce_vst3_helper.pdb
+³               ³   ³   juce_VST3ManifestHelper.obj
+³               ³   ³   resources.res
+³               ³   ³   juce_vst3_helper.ilk
+³               ³   ³   juce_vst3_helper.exe
+³               ³   ³   juce_vst3_helper.exe.recipe
+³               ³   ³   AIDegradingPlugin_VST3ManifestHelper.vcxproj.FileListAbsolute.txt
+³               ³   ³   
+³               ³   ÀÄÄÄAIDegrad.2FDEC4C7.tlog
+³               ³           AIDegradingPlugin_VST3ManifestHelper.lastbuildstate
+³               ³           CL.read.1.tlog
+³               ³           CL.write.1.tlog
+³               ³           CL.command.1.tlog
+³               ³           rc.read.1.tlog
+³               ³           rc.write.1.tlog
+³               ³           rc.command.1.tlog
+³               ³           link.read.1.tlog
+³               ³           link.write.1.tlog
+³               ³           link.secondary.1.tlog
+³               ³           link.command.1.tlog
+³               ³           Cl.items.tlog
+³               ³           
+³               ÃÄÄÄShared Code
+³               ³   ³   AIDegradingPlugin_SharedCode.log
+³               ³   ³   AIDegradingPlugin.pdb
+³               ³   ³   include_juce_audio_processors_lv2_libs.obj
+³               ³   ³   include_juce_audio_processors_ara.obj
+³               ³   ³   include_juce_audio_plugin_client_ARA.obj
+³               ³   ³   include_juce_core_CompilationTime.obj
+³               ³   ³   include_juce_data_structures.obj
+³               ³   ³   include_juce_audio_basics.obj
+³               ³   ³   include_juce_events.obj
+³               ³   ³   PluginEditor.obj
+³               ³   ³   PluginProcessor.obj
+³               ³   ³   include_juce_audio_formats.obj
+³               ³   ³   include_juce_audio_devices.obj
+³               ³   ³   include_juce_graphics_Harfbuzz.obj
+³               ³   ³   include_juce_gui_extra.obj
+³               ³   ³   include_juce_audio_utils.obj
+³               ³   ³   include_juce_core.obj
+³               ³   ³   include_juce_audio_processors.obj
+³               ³   ³   include_juce_graphics.obj
+³               ³   ³   include_juce_gui_basics.obj
+³               ³   ³   AIDegradingPlugin.lib
+³               ³   ³   AIDegradingPlugin.lib.recipe
+³               ³   ³   AIDegradingPlugin_SharedCode.vcxproj.FileListAbsolute.txt
+³               ³   ³   
+³               ³   ÀÄÄÄAIDegrad.126F5142.tlog
+³               ³           AIDegradingPlugin_SharedCode.lastbuildstate
+³               ³           CL.27400.write.1.tlog
+³               ³           CL.read.1.tlog
+³               ³           CL.command.1.tlog
+³               ³           Lib-link.read.1.tlog
+³               ³           Lib-link.write.1.tlog
+³               ³           Lib.command.1.tlog
+³               ³           Cl.items.tlog
+³               ³           
+³               ÃÄÄÄVST3
+³               ³   ³   AIDegradingPlugin_VST3.log
+³               ³   ³   AIDegradingPlugin.pdb
+³               ³   ³   include_juce_audio_plugin_client_VST3.obj
+³               ³   ³   resources.res
+³               ³   ³   AIDegradingPlugin.ilk
+³               ³   ³   AIDegradingPlugin.dll
+³               ³   ³   AIDegradingPlugin.exp
+³               ³   ³   AIDegradingPlugin.lib
+³               ³   ³   AIDegradingPlugin.dll.recipe
+³               ³   ³   AIDegradingPlugin_VST3.vcxproj.FileListAbsolute.txt
+³               ³   ³   
+³               ³   ÃÄÄÄAIDegrad.1250DAFF.tlog
+³               ³   ³       AIDegradingPlugin_VST3.lastbuildstate
+³               ³   ³       CL.read.1.tlog
+³               ³   ³       CL.write.1.tlog
+³               ³   ³       CL.command.1.tlog
+³               ³   ³       rc.read.1.tlog
+³               ³   ³       rc.write.1.tlog
+³               ³   ³       rc.command.1.tlog
+³               ³   ³       link.read.2.tlog
+³               ³   ³       link.write.1.tlog
+³               ³   ³       link.secondary.1.tlog
+³               ³   ³       link.command.1.tlog
+³               ³   ³       Cl.items.tlog
+³               ³   ³       
+³               ³   ÀÄÄÄAIDegradingPlugin.vst3
+³               ³       ÀÄÄÄContents
+³               ³           ÃÄÄÄx86_64-win
+³               ³           ³       AIDegradingPlugin.vst3
+³               ³           ³       
+³               ³           ÀÄÄÄResources
+³               ³                   moduleinfo.json
+³               ³                   
+³               ÀÄÄÄStandalone Plugin
+³                   ³   AIDegradingPlugin_StandalonePlugin.log
+³                   ³   AIDegradingPlugin.pdb
+³                   ³   include_juce_audio_plugin_client_Standalone.obj
+³                   ³   resources.res
+³                   ³   AIDegradingPlugin.ilk
+³                   ³   AIDegradingPlugin.exe
+³                   ³   AIDegradingPlugin.exe.recipe
+³                   ³   AIDegradingPlugin_StandalonePlugin.vcxproj.FileListAbsolute.txt
+³                   ³   
+³                   ÀÄÄÄAIDegrad.2029C6CB.tlog
+³                           AIDegradingPlugin_StandalonePlugin.lastbuildstate
+³                           CL.read.1.tlog
+³                           CL.write.1.tlog
+³                           CL.command.1.tlog
+³                           rc.read.1.tlog
+³                           rc.write.1.tlog
+³                           rc.command.1.tlog
+³                           link.read.2.tlog
+³                           link.write.1.tlog
+³                           link.secondary.1.tlog
+³                           link.command.1.tlog
+³                           Cl.items.tlog
+³                           
+ÀÄÄÄ..bfg-report
+    ÀÄÄÄ2024-07-02
+        ÀÄÄÄ08-45-46
+            ÀÄÄÄprotected-dirt
+                    d2548a4d-HEAD.csv
+                    
