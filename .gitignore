@@ -1,0 +1,10 @@
+# Build and intermediate files
+Builds/
+.bfg-report/
+*.ilk
+*.pdb
+*.obj
+*.lib
+*.exp
+*.exe
+*.dll
